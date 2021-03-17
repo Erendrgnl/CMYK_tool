@@ -1,7 +1,7 @@
 # CMYK_tool
 python tool for CMYK images
 
-'''
+```
 __main__
 
 import os
@@ -19,4 +19,4 @@ outimage.c.show
 
 colorConversion.convertPixel(pixel=(128,45,65),conversion_tpye="RGB2CMYK",icc_dst_path=dst,icc_src_path=src)
 
-'''
+```
