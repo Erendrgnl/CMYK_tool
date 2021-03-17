@@ -5,6 +5,7 @@ python tool for CMYK images
 __main__
 
 import os
+from CMYK_tool import *
 
 
 imgPath = os.path.join(your_path,"LOGO.png")
